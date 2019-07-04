@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "GIF_recorder",
+	"Description": "A tool to record GIFs of your gameplay",
+	"Category": "Other",
+	"CreatedBy": "Screenshock",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "GIF_recorder",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
